@@ -1,0 +1,10 @@
+{
+  "name": "p03-node",
+  "version": "1.0.0",
+  "description": "Advent of code solution to Day 3",
+  "type": "module",
+  "main": "main.js",
+  "keywords": [],
+  "author": "Sandro Rybarik",
+  "license": "MIT"
+}
